@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="/shellGDX/libs/desktop/gdx-natives.jar"/>
 	<classpathentry kind="lib" path="/shellGDX/libs/desktop/gdx-backend-lwjgl-natives.jar"/>
 	<classpathentry kind="lib" path="/shellGDX/libs/desktop/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="/shellGDX/libs/desktop/gdx-box2d-natives.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

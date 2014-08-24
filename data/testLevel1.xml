@@ -1,390 +1,12 @@
 <?xml version="1.0"?>
-<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Level_01" Visible="true">
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="city" Visible="true">
     <Layers>
-        <Layer Name="asfalt" Visible="true">
+        <Layer Name="level0" Visible="true">
             <Items>
-                <Item xsi:type="TextureItem" Name="Texture_0001" Visible="true">
-                    <Position>
-                        <X>0</X>
-                        <Y>0</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0002" Visible="true">
-                    <Position>
-                        <X>0</X>
-                        <Y>-256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0003" Visible="true">
-                    <Position>
-                        <X>256</X>
-                        <Y>-256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0004" Visible="true">
-                    <Position>
-                        <X>256</X>
-                        <Y>0</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0005" Visible="true">
-                    <Position>
-                        <X>256</X>
-                        <Y>256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0006" Visible="true">
-                    <Position>
-                        <X>0</X>
-                        <Y>256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0007" Visible="true">
-                    <Position>
-                        <X>-256</X>
-                        <Y>256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0008" Visible="true">
-                    <Position>
-                        <X>-256</X>
-                        <Y>0</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0009" Visible="true">
-                    <Position>
-                        <X>-256</X>
-                        <Y>-256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0010" Visible="true">
-                    <Position>
-                        <X>-256</X>
-                        <Y>512</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0011" Visible="true">
-                    <Position>
-                        <X>-512</X>
-                        <Y>512</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0012" Visible="true">
-                    <Position>
-                        <X>-512</X>
-                        <Y>256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0013" Visible="true">
-                    <Position>
-                        <X>-512</X>
-                        <Y>256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0014" Visible="true">
-                    <Position>
-                        <X>-512</X>
-                        <Y>0</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0015" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>0</Y>
+                        <X>-576</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -401,35 +23,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0016" Visible="true">
-                    <Position>
-                        <X>-512</X>
-                        <Y>-256</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -437,8 +32,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0017" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>-256</Y>
+                        <X>-320</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -455,8 +50,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -464,8 +59,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0018" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>-512</Y>
+                        <X>-64</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -482,8 +77,35 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
+                    <Origin>
+                        <X>128</X>
+                        <Y>128</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0019" Visible="true">
+                    <Position>
+                        <X>192</X>
+                        <Y>-320</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -491,8 +113,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0020" Visible="true">
                     <Position>
-                        <X>-256</X>
-                        <Y>-512</Y>
+                        <X>448</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -509,8 +131,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -518,8 +140,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0021" Visible="true">
                     <Position>
-                        <X>0</X>
-                        <Y>-512</Y>
+                        <X>704</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -536,8 +158,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -545,8 +167,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0022" Visible="true">
                     <Position>
-                        <X>256</X>
-                        <Y>-512</Y>
+                        <X>704</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -563,8 +185,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -572,8 +194,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0023" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>-512</Y>
+                        <X>448</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -590,8 +212,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -599,8 +221,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0024" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>-256</Y>
+                        <X>192</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -617,8 +239,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -626,8 +248,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0025" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>0</Y>
+                        <X>-64</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -644,8 +266,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -653,8 +275,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0026" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>256</Y>
+                        <X>-320</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -671,8 +293,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -680,8 +302,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0027" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>512</Y>
+                        <X>-576</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -698,8 +320,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -707,8 +329,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0028" Visible="true">
                     <Position>
-                        <X>256</X>
-                        <Y>512</Y>
+                        <X>-576</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -725,8 +347,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -734,8 +356,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0029" Visible="true">
                     <Position>
-                        <X>0</X>
-                        <Y>512</Y>
+                        <X>-320</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -752,35 +374,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt0.jpg</texture_filename>
-                    <asset_name>asfalt0</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0030" Visible="true">
-                    <Position>
-                        <X>-768</X>
-                        <Y>768</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -788,8 +383,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0031" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>512</Y>
+                        <X>-64</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -806,8 +401,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -815,8 +410,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0032" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>256</Y>
+                        <X>192</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -833,8 +428,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -842,8 +437,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0033" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>0</Y>
+                        <X>448</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -860,8 +455,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -869,8 +464,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0034" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>-256</Y>
+                        <X>704</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -887,8 +482,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -896,8 +491,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0035" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>-512</Y>
+                        <X>-576</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -914,8 +509,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -923,8 +518,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0036" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>-768</Y>
+                        <X>-320</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -941,8 +536,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -950,8 +545,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0037" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>-1024</Y>
+                        <X>-64</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -968,8 +563,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -977,8 +572,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0038" Visible="true">
                     <Position>
-                        <X>-768</X>
-                        <Y>1024</Y>
+                        <X>192</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -995,8 +590,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1004,8 +599,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0039" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>1024</Y>
+                        <X>448</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1022,8 +617,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1031,8 +626,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0040" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>768</Y>
+                        <X>704</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1049,197 +644,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0041" Visible="true">
-                    <Position>
-                        <X>-256</X>
-                        <Y>768</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0042" Visible="true">
-                    <Position>
-                        <X>-256</X>
-                        <Y>1024</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0043" Visible="true">
-                    <Position>
-                        <X>0</X>
-                        <Y>1024</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0044" Visible="true">
-                    <Position>
-                        <X>0</X>
-                        <Y>768</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0045" Visible="true">
-                    <Position>
-                        <X>256</X>
-                        <Y>768</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0046" Visible="true">
-                    <Position>
-                        <X>256</X>
-                        <Y>1024</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0047" Visible="true">
-                    <Position>
-                        <X>512</X>
-                        <Y>1024</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 316.jpg</texture_filename>
+                    <asset_name>image 316</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1247,8 +653,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0048" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>1024</Y>
+                        <X>-832</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1265,8 +671,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1274,8 +680,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0049" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>768</Y>
+                        <X>-832</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1292,8 +698,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1301,8 +707,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0050" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>768</Y>
+                        <X>-832</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1319,8 +725,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1328,8 +734,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0051" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>512</Y>
+                        <X>-832</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1346,8 +752,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1355,8 +761,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0052" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>256</Y>
+                        <X>-832</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1373,8 +779,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1382,8 +788,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0053" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>0</Y>
+                        <X>-576</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1400,8 +806,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1409,8 +815,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0054" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>-256</Y>
+                        <X>-320</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1427,8 +833,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1436,8 +842,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0055" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>-512</Y>
+                        <X>-64</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1454,8 +860,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1463,8 +869,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0056" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>-768</Y>
+                        <X>192</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1481,8 +887,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1490,8 +896,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0057" Visible="true">
                     <Position>
-                        <X>768</X>
-                        <Y>-1024</Y>
+                        <X>448</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1508,8 +914,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1517,8 +923,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0058" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>-1024</Y>
+                        <X>704</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1535,8 +941,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1544,8 +950,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0059" Visible="true">
                     <Position>
-                        <X>-512</X>
-                        <Y>-768</Y>
+                        <X>960</X>
+                        <Y>-576</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1562,8 +968,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1571,8 +977,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0060" Visible="true">
                     <Position>
-                        <X>-256</X>
-                        <Y>-1024</Y>
+                        <X>960</X>
+                        <Y>-320</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1589,8 +995,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1598,8 +1004,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0061" Visible="true">
                     <Position>
-                        <X>-256</X>
-                        <Y>-768</Y>
+                        <X>960</X>
+                        <Y>-64</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1616,8 +1022,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1625,8 +1031,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0062" Visible="true">
                     <Position>
-                        <X>0</X>
-                        <Y>-768</Y>
+                        <X>960</X>
+                        <Y>192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1643,8 +1049,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1652,8 +1058,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0063" Visible="true">
                     <Position>
-                        <X>0</X>
-                        <Y>-1024</Y>
+                        <X>960</X>
+                        <Y>448</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1670,8 +1076,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1679,8 +1085,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0065" Visible="true">
                     <Position>
-                        <X>256</X>
-                        <Y>-1024</Y>
+                        <X>960</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1697,35 +1103,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
-                    <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
-                    </Origin>
-                </Item>
-                <Item xsi:type="TextureItem" Name="Texture_0066" Visible="true">
-                    <Position>
-                        <X>512</X>
-                        <Y>-1024</Y>
-                    </Position>
-                    <CustomProperties />
-                    <Rotation>0</Rotation>
-                    <Scale>
-                        <X>1</X>
-                        <Y>1</Y>
-                    </Scale>
-                    <TintColor>
-                        <R>255</R>
-                        <G>255</G>
-                        <B>255</B>
-                        <A>255</A>
-                        <PackedValue>4294967295</PackedValue>
-                    </TintColor>
-                    <FlipHorizontally>false</FlipHorizontally>
-                    <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1733,8 +1112,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0067" Visible="true">
                     <Position>
-                        <X>512</X>
-                        <Y>-768</Y>
+                        <X>704</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1751,8 +1130,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1760,8 +1139,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0068" Visible="true">
                     <Position>
-                        <X>256</X>
-                        <Y>-768</Y>
+                        <X>448</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1778,8 +1157,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1787,8 +1166,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0069" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>-512</Y>
+                        <X>192</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1805,8 +1184,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1814,8 +1193,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0070" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>-256</Y>
+                        <X>-64</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1832,8 +1211,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1841,8 +1220,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0071" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>0</Y>
+                        <X>-320</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1859,8 +1238,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1868,8 +1247,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0072" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>256</Y>
+                        <X>-576</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1886,8 +1265,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1895,8 +1274,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0073" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>512</Y>
+                        <X>-832</X>
+                        <Y>704</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1913,8 +1292,8 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 293.jpg</texture_filename>
+                    <asset_name>image 293</asset_name>
                     <Origin>
                         <X>128</X>
                         <Y>128</Y>
@@ -1922,8 +1301,8 @@
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0074" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>512</Y>
+                        <X>449</X>
+                        <Y>-383</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1940,17 +1319,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 130.png</texture_filename>
+                    <asset_name>image 130</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>81</X>
+                        <Y>81</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0075" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>256</Y>
+                        <X>647</X>
+                        <Y>455</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1967,17 +1346,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0076" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>0</Y>
+                        <X>-608</X>
+                        <Y>-171</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -1994,17 +1373,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0077" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>-256</Y>
+                        <X>-524</X>
+                        <Y>-232</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2021,17 +1400,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0078" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>-512</Y>
+                        <X>-539</X>
+                        <Y>-201</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2048,17 +1427,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0079" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>-768</Y>
+                        <X>-582</X>
+                        <Y>-216</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2075,17 +1454,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0080" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>-1024</Y>
+                        <X>-622</X>
+                        <Y>-206</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2102,17 +1481,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0081" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>-1024</Y>
+                        <X>-567</X>
+                        <Y>-238</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2129,17 +1508,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0082" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>-768</Y>
+                        <X>-637</X>
+                        <Y>-239</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2156,17 +1535,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0083" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>768</Y>
+                        <X>-602</X>
+                        <Y>-186</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2183,17 +1562,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0084" Visible="true">
                     <Position>
-                        <X>-1024</X>
-                        <Y>1024</Y>
+                        <X>-571</X>
+                        <Y>-174</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2210,17 +1589,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0085" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>768</Y>
+                        <X>-549</X>
+                        <Y>-192</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2237,17 +1616,17 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
                 <Item xsi:type="TextureItem" Name="Texture_0086" Visible="true">
                     <Position>
-                        <X>-1280</X>
-                        <Y>1024</Y>
+                        <X>-609</X>
+                        <Y>-237</Y>
                     </Position>
                     <CustomProperties />
                     <Rotation>0</Rotation>
@@ -2264,84 +1643,579 @@
                     </TintColor>
                     <FlipHorizontally>false</FlipHorizontally>
                     <FlipVertically>false</FlipVertically>
-                    <texture_filename>asfalt1.jpg</texture_filename>
-                    <asset_name>asfalt1</asset_name>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
                     <Origin>
-                        <X>128</X>
-                        <Y>128</Y>
+                        <X>26</X>
+                        <Y>26</Y>
                     </Origin>
                 </Item>
-            </Items>
-            <ScrollSpeed>
-                <X>1</X>
-                <Y>1</Y>
-            </ScrollSpeed>
-        </Layer>
-        <Layer Name="houses" Visible="true">
-            <Items>
-                <Item xsi:type="RectangleItem" Name="Rectangle_0087" Visible="true">
+                <Item xsi:type="TextureItem" Name="Texture_0087" Visible="true">
                     <Position>
-                        <X>-640</X>
-                        <Y>-640</Y>
+                        <X>-296</X>
+                        <Y>-316</Y>
                     </Position>
                     <CustomProperties />
-                    <Width>640</Width>
-                    <Height>640</Height>
-                    <FillColor>
-                        <R>192</R>
-                        <G>0</G>
-                        <B>192</B>
-                        <A>145</A>
-                        <PackedValue>2445279424</PackedValue>
-                    </FillColor>
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
+                    <Origin>
+                        <X>26</X>
+                        <Y>26</Y>
+                    </Origin>
                 </Item>
-                <Item xsi:type="RectangleItem" Name="Rectangle_0088" Visible="true">
+                <Item xsi:type="TextureItem" Name="Texture_0088" Visible="true">
                     <Position>
-                        <X>0</X>
-                        <Y>-640</Y>
+                        <X>-352</X>
+                        <Y>-242</Y>
                     </Position>
                     <CustomProperties />
-                    <Width>640</Width>
-                    <Height>640</Height>
-                    <FillColor>
-                        <R>192</R>
-                        <G>0</G>
-                        <B>192</B>
-                        <A>145</A>
-                        <PackedValue>2445279424</PackedValue>
-                    </FillColor>
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
+                    <Origin>
+                        <X>26</X>
+                        <Y>26</Y>
+                    </Origin>
                 </Item>
-                <Item xsi:type="RectangleItem" Name="Rectangle_0089" Visible="true">
+                <Item xsi:type="TextureItem" Name="Texture_0089" Visible="true">
                     <Position>
-                        <X>-640</X>
-                        <Y>0</Y>
+                        <X>-281</X>
+                        <Y>-299</Y>
                     </Position>
                     <CustomProperties />
-                    <Width>640</Width>
-                    <Height>640</Height>
-                    <FillColor>
-                        <R>192</R>
-                        <G>0</G>
-                        <B>192</B>
-                        <A>145</A>
-                        <PackedValue>2445279424</PackedValue>
-                    </FillColor>
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 162.png</texture_filename>
+                    <asset_name>image 162</asset_name>
+                    <Origin>
+                        <X>26</X>
+                        <Y>26</Y>
+                    </Origin>
                 </Item>
-                <Item xsi:type="RectangleItem" Name="Rectangle_0090" Visible="true">
+                <Item xsi:type="TextureItem" Name="Texture_0090" Visible="true">
                     <Position>
-                        <X>0</X>
-                        <Y>0</Y>
+                        <X>-340</X>
+                        <Y>-266</Y>
                     </Position>
                     <CustomProperties />
-                    <Width>640</Width>
-                    <Height>640</Height>
-                    <FillColor>
-                        <R>192</R>
-                        <G>0</G>
-                        <B>192</B>
-                        <A>145</A>
-                        <PackedValue>2445279424</PackedValue>
-                    </FillColor>
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 140.png</texture_filename>
+                    <asset_name>image 140</asset_name>
+                    <Origin>
+                        <X>106</X>
+                        <Y>106</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0091" Visible="true">
+                    <Position>
+                        <X>-628</X>
+                        <Y>217</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 140.png</texture_filename>
+                    <asset_name>image 140</asset_name>
+                    <Origin>
+                        <X>106</X>
+                        <Y>106</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0094" Visible="true">
+                    <Position>
+                        <X>556</X>
+                        <Y>510</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 152.png</texture_filename>
+                    <asset_name>image 152</asset_name>
+                    <Origin>
+                        <X>106</X>
+                        <Y>104</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0095" Visible="true">
+                    <Position>
+                        <X>-423</X>
+                        <Y>-64</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 123.png</texture_filename>
+                    <asset_name>image 123</asset_name>
+                    <Origin>
+                        <X>80</X>
+                        <Y>80</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0096" Visible="true">
+                    <Position>
+                        <X>255</X>
+                        <Y>-303</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 1724 (dumpster.png).png</texture_filename>
+                    <asset_name>image 1724 (dumpster.png)</asset_name>
+                    <Origin>
+                        <X>58</X>
+                        <Y>81</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0097" Visible="true">
+                    <Position>
+                        <X>-531</X>
+                        <Y>398</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 389.png</texture_filename>
+                    <asset_name>image 389</asset_name>
+                    <Origin>
+                        <X>87</X>
+                        <Y>87</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0098" Visible="true">
+                    <Position>
+                        <X>-646</X>
+                        <Y>477</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 48.png</texture_filename>
+                    <asset_name>image 48</asset_name>
+                    <Origin>
+                        <X>29</X>
+                        <Y>20</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0099" Visible="true">
+                    <Position>
+                        <X>769</X>
+                        <Y>479</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 54.png</texture_filename>
+                    <asset_name>image 54</asset_name>
+                    <Origin>
+                        <X>40</X>
+                        <Y>20</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0100" Visible="true">
+                    <Position>
+                        <X>-69</X>
+                        <Y>-393</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 56.png</texture_filename>
+                    <asset_name>image 56</asset_name>
+                    <Origin>
+                        <X>76</X>
+                        <Y>26</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0101" Visible="true">
+                    <Position>
+                        <X>-504</X>
+                        <Y>27</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 46.png</texture_filename>
+                    <asset_name>image 46</asset_name>
+                    <Origin>
+                        <X>66</X>
+                        <Y>13</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0102" Visible="true">
+                    <Position>
+                        <X>504</X>
+                        <Y>322</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 92.png</texture_filename>
+                    <asset_name>image 92</asset_name>
+                    <Origin>
+                        <X>40</X>
+                        <Y>40</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0103" Visible="true">
+                    <Position>
+                        <X>-739</X>
+                        <Y>-403</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 1742 (car5.png).png</texture_filename>
+                    <asset_name>image 1742 (car5.png)</asset_name>
+                    <Origin>
+                        <X>106</X>
+                        <Y>211</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0104" Visible="true">
+                    <Position>
+                        <X>-796</X>
+                        <Y>410</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 1744 (car3.png).png</texture_filename>
+                    <asset_name>image 1744 (car3.png)</asset_name>
+                    <Origin>
+                        <X>49</X>
+                        <Y>100</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0117" Visible="true">
+                    <Position>
+                        <X>285</X>
+                        <Y>-52</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>window.png</texture_filename>
+                    <asset_name>window</asset_name>
+                    <Origin>
+                        <X>100</X>
+                        <Y>12.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0118" Visible="true">
+                    <Position>
+                        <X>284</X>
+                        <Y>122</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>3.14159274</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>window.png</texture_filename>
+                    <asset_name>window</asset_name>
+                    <Origin>
+                        <X>100</X>
+                        <Y>12.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0119" Visible="true">
+                    <Position>
+                        <X>172</X>
+                        <Y>35</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>-1.57079637</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>window.png</texture_filename>
+                    <asset_name>window</asset_name>
+                    <Origin>
+                        <X>100</X>
+                        <Y>12.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0120" Visible="true">
+                    <Position>
+                        <X>397</X>
+                        <Y>35</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>1.57079637</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>window.png</texture_filename>
+                    <asset_name>window</asset_name>
+                    <Origin>
+                        <X>100</X>
+                        <Y>12.5</Y>
+                    </Origin>
+                </Item>
+                <Item xsi:type="TextureItem" Name="Texture_0121" Visible="true">
+                    <Position>
+                        <X>284</X>
+                        <Y>32</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Rotation>0</Rotation>
+                    <Scale>
+                        <X>1</X>
+                        <Y>1</Y>
+                    </Scale>
+                    <TintColor>
+                        <R>255</R>
+                        <G>255</G>
+                        <B>255</B>
+                        <A>255</A>
+                        <PackedValue>4294967295</PackedValue>
+                    </TintColor>
+                    <FlipHorizontally>false</FlipHorizontally>
+                    <FlipVertically>false</FlipVertically>
+                    <texture_filename>image 44.png</texture_filename>
+                    <asset_name>image 44</asset_name>
+                    <Origin>
+                        <X>13</X>
+                        <Y>13</Y>
+                    </Origin>
                 </Item>
             </Items>
             <ScrollSpeed>
@@ -2350,13 +2224,17 @@
             </ScrollSpeed>
         </Layer>
     </Layers>
-    <CustomProperties />
+    <CustomProperties>
+        <Property Name="assetRoot" Type="string" Description="data/sprites/test">
+            <string>data/sprites/test</string>
+        </Property>
+    </CustomProperties>
     <EditorRelated>
-        <NextItemNumber>90</NextItemNumber>
-        <ContentRootFolder>d:\</ContentRootFolder>
+        <NextItemNumber>121</NextItemNumber>
+        <ContentRootFolder>C:\Users\Deadiablo\Desktop\left of dead\sprites</ContentRootFolder>
         <CameraPosition>
-            <X>-8.333342</X>
-            <Y>-8.333342</Y>
+            <X>0</X>
+            <Y>0</Y>
         </CameraPosition>
         <Version>1.3.0.0</Version>
     </EditorRelated>

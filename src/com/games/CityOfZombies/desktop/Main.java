@@ -11,8 +11,8 @@ public class Main
     LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
     config.title = "City of zombies";
     config.useGL30 = false;
-    config.width = 800;
-    config.height = 480;
+    config.width = 1440;
+    config.height = 810;
     config.fullscreen = false;
     config.vSyncEnabled = false;
     config.foregroundFPS = 0;
